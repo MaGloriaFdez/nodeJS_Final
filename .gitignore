@@ -1,0 +1,5 @@
+*.pkg
+.DS_STORE
+herramientas/
+herramientas_ignore/
+
